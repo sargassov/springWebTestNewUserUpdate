@@ -38,8 +38,6 @@ public class AuthService {
             userService.save(user);
         }
 
-
-
 //        User user = new User();
 //        user.setPassword(regRequest.getPassword());
 //        user.setUsername(regRequest.getUsername());
