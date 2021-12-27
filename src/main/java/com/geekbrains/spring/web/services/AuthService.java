@@ -42,6 +42,5 @@ public class AuthService {
 //        user.setPassword(regRequest.getPassword());
 //        user.setUsername(regRequest.getUsername());
 //        user.setEmail(regRequest.getEmail());
-
     }
 }
